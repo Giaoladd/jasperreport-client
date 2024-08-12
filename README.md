@@ -44,7 +44,7 @@ yaml配置:
 	微信支付100RMB并备注邮箱，我们将在24小时内发送源码到指定邮箱
     **注意: 请考虑清楚后购买，源代码一但发出之后概不退款。**
 
-	WX(ladlee666)扫码:
+	WX(卫星)扫码:
 
 
 ![image](https://github.com/Giaoladd/jasperreport-client/blob/master/paycode.png)
