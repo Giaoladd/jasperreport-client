@@ -1,0 +1,2 @@
+# jasperreport-client
+本项目对JasperReports进行了高度封装，使得生成PDF文档变得异常简便。用户只需要将生成PDF的原始数据存储在MinIO或本地磁盘目录上，然后调用客户端接口便可以轻松实现PDF的生成，大大减少了开发时间。
