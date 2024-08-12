@@ -46,5 +46,4 @@ yaml配置:
 
 	WX(卫星)扫码:
 
-
 ![image](https://github.com/Giaoladd/jasperreport-client/blob/master/paycode.png)
