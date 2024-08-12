@@ -47,4 +47,4 @@ yaml配置:
 	WX(ladlee666)扫码:
 
 
-![image](https://github.com/Giaoladd/jasperreport-client/blob/master/20240812-165050.jpg)
+![image](https://github.com/Giaoladd/jasperreport-client/blob/master/paycode.png)
